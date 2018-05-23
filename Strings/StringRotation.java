@@ -6,6 +6,8 @@ public class StringRotation {
 		// TODO Auto-generated method stub
 		 
 		System.out.println(IsRotation("carlos", "loscar"));
+		System.out.println(IsRotation("tony", "nyto"));
+		
 	}
 	
 	public static boolean IsRotation(String s1, String s2) {

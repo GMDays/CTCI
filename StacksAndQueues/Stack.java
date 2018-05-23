@@ -11,6 +11,7 @@ import java.util.EmptyStackException;
  *
  * @author salla010
  */
+
 public class Stack {
     public static void main(String[] args){
     	Stack st = new Stack(3);
